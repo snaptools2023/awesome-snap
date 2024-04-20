@@ -1,7 +1,4 @@
-# Awesome Snap
-
-> List of resources for the game Marvel Snap.
-
+# Awesome Snap - A Curated List of Marvel Snap Resources
 
 ## Contents
 
