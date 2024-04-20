@@ -7,7 +7,7 @@
 - [Trackers](#trackers)
 
 ## Sites
-> General sites with information about Marvel Snap
+> General sites with information about Marvel Snap.
 
 - [MarvelSnap.pro](https://marvelsnap.pro/)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/feed/)
@@ -18,6 +18,7 @@
 - [Youtube](https://www.youtube.com/results?search_query=marvel+snap)
 
 ## Trackers
+> Deck trackers and play statistics.
 
 - [Marvel Snap Tracker by Prometa - MarvelSnapZone.com](https://marvelsnapzone.com/tracker/)
 - [Marvel Snap Tracker by Prometa - MarvelSnap.pro](https://marvelsnap.pro/marvel-snap-tracker/)
