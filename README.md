@@ -68,9 +68,11 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 ## Creator Program
 > Perks and requirements for being an official creator for Marvel Snap.
 [MarvelSnap.com](https://www.marvelsnap.com/creators)
+[untapped.gg](https://untapped.gg/en/influencer)
 
 ## Content Creators
 > Popular content creators and streamers.
+- todo
 
 ## Decks
 > Decks, stats, information and substitutions.
@@ -83,18 +85,21 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnap.com](https://www.marvelsnap.com/howtoplay) - How to play
 - [MarvelSnap.pro](https://marvelsnap.pro/decks/?pool=2) - beginning decks
 - [MarvelSnapZone.com](https://marvelsnapzone.com/strategy/) - Strategy
+- [MarvelSnapZone.com](https://marvelsnapzone.com/marvel-snap-beginners-guide/) - Beginners Guide
 - [Snap.fan](https://snap.fan/guides/) - Guides
 
 ## Leaderboards
 > World leaderboards
-- [MarvelSnap.com](https://www.marvelsnap.com/infiniteleaderboard)
+- [MarvelSnap.com](https://www.marvelsnap.com/infiniteleaderboard) - Official Leaderboard
 - [MarvelSnapZone.com](https://marvelsnapzone.com/leaderboard/) - including hot decks for the leaders.
-- [Snap.fan](https://snap.fan/p/leaderboard/) - Official Leaderboard
+- [Snap.fan](https://snap.fan/p/leaderboard/)
 
 ## Locations
 > Information about all of the locations;
+- todo
 
 ### Featured Locations - Schedule of featured locations.
+- todo
 
 ## Meta
 > Information about the most popular decks at the moment.
@@ -111,6 +116,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Podcasts
 > Podcasts from the community.
+- todo
 
 ## Premium Services
 > Paid services to give you additional info like win rates and cube rates.
@@ -119,11 +125,14 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Schedules
 > Schedules for bundles, locations, cards, seasons, etc.
+- todo
 
 ## Spotlight Caches
 > Speculative information about upcoming spotlight caches.
+- todo
 
 ### Planners - Plan spending your resources to save for cards you want.
+- todo
 
 ## Tools
 > Misc tools for Marvel Snap.
@@ -146,4 +155,4 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-todo:  other things like card backs, titles, avatars, emotes, discords
+todo:  other things like card backs, titles, avatars, emotes, discord servers, twitter accounts
