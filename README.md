@@ -1,26 +1,27 @@
-# Awesome Snap - A Curated List of Marvel Snap Resources
+# Awesome Snap
+> A Curated List of Marvel Snap Resources
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Sites](#sites)
+- [Trackers](#trackers)
 
+## Sites
+> General sites with information about Marvel Snap
 
-## Section
+- [MarvelSnap.pro](https://marvelsnap.pro/)
+- [MarvelSnapZone.com](https://marvelsnapzone.com/feed/)
+- [Reddit - Marvel Snap](https://reddit.com/r/MarvelSnap)
+- [Reddit - Marvel Snap Competitive](https://reddit.com/r/MarvelSnapComp)
+- [Reddit - Marvel Snap Decks](https://reddit.com/r/MarvelSnapDecks)
+- [Snap.fan](https://snap.fan)
+- [Youtube](https://www.youtube.com/results?search_query=marvel+snap)
 
-About this section. Optional. Keep this short and focus on the list.
+## Trackers
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Marvel Snap Tracker by Prometa - MarvelSnapZone.com](https://marvelsnapzone.com/tracker/)
+- [Marvel Snap Tracker by Prometa - MarvelSnap.pro](https://marvelsnap.pro/marvel-snap-tracker/)
+- [Marvel Snap Deck Tracker by Untapped.gg](https://snap.untapped.gg/)
 
 ## Contributing
 
