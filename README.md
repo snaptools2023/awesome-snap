@@ -15,8 +15,8 @@
 - [Snap.fan](https://snap.fan/cards/)
 
 ## Cards-Unreleased
-> Future cards that will be added to the game - * NOTE:  These are speculative and subject to change *
-- [MarvelSnap.pro](https://marvelsnap.pro/cards/?releaseStatus=unreleased) * These filters are not working as of 4/19/2024 *
+> Future cards that will be added to the game - *NOTE:  These are speculative and subject to change*
+- [MarvelSnap.pro](https://marvelsnap.pro/cards/?releaseStatus=unreleased) *These filters are not working as of 4/19/2024*
 - [MarvelSnapZone.com](https://marvelsnapzone.com/cards/unreleased/)
 - [Snap.fan](https://snap.fan/cards/?is_def_released=false)
 
