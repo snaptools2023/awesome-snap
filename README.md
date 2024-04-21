@@ -27,6 +27,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Sites
 > General sites with information about Marvel Snap.
+
 - [MarvelSnap.com](https://www.marvelsnap.com/) - The primary site for the game.
 - [MarvelSnap.pro](https://marvelsnap.pro/) - Everything you need to dominate Marvel Snap: popular meta decks, cards with latest balance patches, news and guides. Snap Deck database updated hourly
 - [MarvelSnapZone.com](https://marvelsnapzone.com/feed/) - Marvel Snap Zone is your best Marvel Snap information site, featuring in-depth guides, card database, decks, meta, tier list, news, and more.
@@ -39,11 +40,13 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Bundles
 > Information about coming and current bundles.
+
 - [MarvelSnapZone.com](https://marvelsnapzone.com/bundles/)
 - [Snap.fan](https://snap.fan/cards/)
 
 ## Builders
 > Deck builders
+
 - [MarvelSnapZone.com](https://marvelsnapzone.com/deck-builder/)
 - [Snap.fan](https://snap.fan/decks/builder/)
 
@@ -67,11 +70,13 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Creator Program
 > Perks and requirements for being a creator for the Marvel Snap game.
+
 [MarvelSnap.com](https://www.marvelsnap.com/creators)
 [untapped.gg](https://untapped.gg/en/influencer)
 
 ## Content Creators
 > Popular content creators and streamers.
+
 - Alexander Coccia - [Twitch](https://twitch.tv/alexandercoccia), [Twitter](https://twitter.com/AlexanderCoccia), [Youtube](https://www.youtube.com/@AlexanderCoccia)
 - Cozy Snap - [Twitch](https://twitch.tv/cozygam3r), [Twitter](https://twitter.com/ACozyGamer), [Youtube](https://www.youtube.com/@CozySnap)
 - FaThorNewman - [Twitter](https://twitter.com/fathornewman), [Youtube](https://www.youtube.com/@FaThorNewman)
@@ -84,12 +89,14 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Decks
 > Decks, stats, information and substitutions.
+
 - [MarvelSnap.pro](https://marvelsnap.pro/decks/?pool=4&srt=metascore&direct=desc)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/decks/)
 - [Snap.fan](https://snap.fan/decks/)
 
 ## Getting Started
 > Information on how to get started and how to play the game.
+
 - [MarvelSnap.com](https://www.marvelsnap.com/howtoplay) - How to play
 - [MarvelSnap.pro](https://marvelsnap.pro/decks/?pool=2) - beginning decks
 - [MarvelSnapZone.com](https://marvelsnapzone.com/strategy/) - Strategy
@@ -98,24 +105,28 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Leaderboards
 > World leaderboards
+
 - [MarvelSnap.com](https://www.marvelsnap.com/infiniteleaderboard) - Official Leaderboard
 - [MarvelSnapZone.com](https://marvelsnapzone.com/leaderboard/) - including hot decks for the leaders.
 - [Snap.fan](https://snap.fan/p/leaderboard/)
 
 ## Locations
 > Location Databases
+
 - [MarvelSnap.pro](https://marvelsnap.pro/locations/)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/locations/)
 - [Snap.fan](https://snap.fan/locations/)
 
 ## Meta
 > Information about the most popular decks at the moment.
+
 - [MarvelSnap.pro](https://marvelsnap.pro/meta/)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/meta/)
 - [Snap.fan](https://snap.fan/decks/meta/)
 
 ## News
 > News about upcoming events, patches and articles.
+
 - [MarvelSnap.com](https://www.marvelsnap.com/newslist)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/news/)
 - [OhSnap.us](https://ohsnap.us) - News aggregator.
@@ -123,6 +134,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Podcasts
 > Podcasts from the community.
+
 - Beyond Infinite - To Infinite and Beyond with your hosts, Dmoney and ItsGuestGaming! Find them both creating Marvel Snap content on YouTube and Twitch! [Apple Podcasts](https://podcasts.apple.com/us/podcast/beyond-infinite-a-marvel-snap-podcast/id1675564933), [Listen Notes](https://www.listennotes.com/podcasts/beyond-infinite-a-marvel-snap-podcast-YAehmXa1KoQ/), [Spotify](https://open.spotify.com/show/2ItkQZTI8LQj3Q0GVDrqA3), [Youtube](https://www.youtube.com/playlist?list=PLyD1YMugK7a99vstp4AtnO0fGY_NL9kPo)
 - Born to be Cosmo - Born to be Cosmo is a Marvel Snap podcast hosted by Blutrane, NateWolfeTCG & ZombiesGoNomNom. Join us as we discuss all things Marvel Snap, including Snap news, decks, meta, new cards and much more. New episodes approximately every 2 weeks. [Apple Podcasts](https://podcasts.apple.com/us/podcast/born-to-be-cosmo-a-marvel-snap-podcast/id1672875916), [Listen Notes](https://www.listennotes.com/podcasts/born-to-be-cosmo-a-marvel-snap-podcast-born-oqs2t-4QSj1/), [podchaser](https://www.podchaser.com/podcasts/born-to-be-cosmo-a-marvel-snap-5136487), [Spotify](https://open.spotify.com/show/3Ohg8RPvHvtPhAG6XPpdkV), [Youtube](https://www.youtube.com/@borntobecosmo)
 - Cubed - A podcast where three regular guys talk about the card game, Marvel Snap. [iheart](https://www.iheart.com/podcast/53-cubed-the-marvel-snap-podca-148077258/), [spreaker](https://www.spreaker.com/podcast/cubed-the-marvel-snap-podcast--6075332)
@@ -138,31 +150,37 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Premium Services
 > Paid services to give you additional info like win rates and cube rates.
+
 - [Untapped.gg](https://snap.untapped.gg/) - Click the premium link at the top of the page.  Shame there is no link to additional info.
 - [MarvelSnapZone.com](https://marvelsnapzone.com/account/register/)
 
 ## Schedules
 > Schedules for spotlight caches, hot locations, card releases, etc.
+
 - [MarvelSnapZone.com](https://marvelsnapzone.com/schedule/)
 - [Snap.fan](https://snap.fan/news/schedule/)
 
 ## Planners
 > Plan spending your resources to save for cards you want.
+
 - [MarvelSnapZone.com](https://marvelsnapzone.com/spotlight-planner/) - Spotlight planner
 
 ## Tools
 > Misc tools for Marvel Snap.
+
 - [Awesome Marvel Snap List](https://github.com/snaptools2023/awesome-snap) - this page
 - [SnapScripts](https://github.com/snaptools2023/snapscripts) - Powershell scripts for exporting information about your collection.
 
 ## Tournaments
 > Tournaments you can play in or watch.
+
 - [MarvelSnapPro.com](https://marvelsnap.pro/events/)
 - [Snap.fan World Championship](https://snap.fan/tourneys/sfwc/faq) - Information about the Snap.fan world championship.
 - [Snap.fan Tournaments](https://snap.fan/tourneys/) - Past and future tournaments including winning players and decks.
 
 ## Trackers
 > Deck trackers and play statistics.
+
 - [Marvel Snap Tracker by Prometa - MarvelSnapZone.com](https://marvelsnapzone.com/tracker/)
 - [Marvel Snap Tracker by Prometa - MarvelSnap.pro](https://marvelsnap.pro/marvel-snap-tracker/)
 - [Marvel Snap Deck Tracker by Untapped.gg](https://snap.untapped.gg/)
