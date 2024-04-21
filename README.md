@@ -66,13 +66,21 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Snap.fan](https://snap.fan/cards/variants/)
 
 ## Creator Program
-> Perks and requirements for being an official creator for Marvel Snap.
+> Perks and requirements for being a creator for the Marvel Snap game.
 [MarvelSnap.com](https://www.marvelsnap.com/creators)
 [untapped.gg](https://untapped.gg/en/influencer)
 
 ## Content Creators
 > Popular content creators and streamers.
-- todo
+- Alexander Coccia - [Twitch](https://twitch.tv/alexandercoccia), [Twitter](https://twitter.com/AlexanderCoccia), [Youtube](https://www.youtube.com/@AlexanderCoccia)
+- Cozy Snap - [Twitch](https://twitch.tv/cozygam3r), [Twitter](https://twitter.com/ACozyGamer), [Youtube](https://www.youtube.com/@CozySnap)
+- FaThorNewman - [Twitter](https://twitter.com/fathornewman), [Youtube](https://www.youtube.com/@FaThorNewman)
+- Prashaun - [Instagram](https://instagram.com/prashaun), [Twitch](https://twitch.tv/prashaun), [Twitter](https://twitter.com/Prashaun_Snap), [Youtube](https://www.youtube.com/@Prashaun)
+- TeddyNinja - [Discord](https://discord.gg/VXfYWzjn9D), [Twitch](https://twitch.tv/teddyninja15), [Twitter](https://twitter.com/teddyninja15), [Youtube](https://www.youtube.com/@TeddyNinja)
+- Drewberry - [Discord](https://discord.gg/2vPgMu2WtU), [Twitter](https://twitter.com/Drewberry_Snap), [Youtube](https://www.youtube.com/@Drewberry_Snap)
+- RegisKillbin - [Twitter](https://twitter.com/regiskillbin), [Youtube](https://www.youtube.com/@RegisKillbin)
+- TLSG - [Youtube](https://www.youtube.com/@TLSGMarvelSnap)
+
 
 ## Decks
 > Decks, stats, information and substitutions.
@@ -95,11 +103,10 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Snap.fan](https://snap.fan/p/leaderboard/)
 
 ## Locations
-> Information about all of the locations;
-- todo
-
-### Featured Locations - Schedule of featured locations.
-- todo
+> Location Databases
+- [MarvelSnap.pro](https://marvelsnap.pro/locations/)
+- [MarvelSnapZone.com](https://marvelsnapzone.com/locations/)
+- [Snap.fan](https://snap.fan/locations/)
 
 ## Meta
 > Information about the most popular decks at the moment.
@@ -116,7 +123,18 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Podcasts
 > Podcasts from the community.
-- todo
+- Beyond Infinite - To Infinite and Beyond with your hosts, Dmoney and ItsGuestGaming! Find them both creating Marvel Snap content on YouTube and Twitch! [Apple Podcasts](https://podcasts.apple.com/us/podcast/beyond-infinite-a-marvel-snap-podcast/id1675564933), [Listen Notes](https://www.listennotes.com/podcasts/beyond-infinite-a-marvel-snap-podcast-YAehmXa1KoQ/), [Spotify](https://open.spotify.com/show/2ItkQZTI8LQj3Q0GVDrqA3), [Youtube](https://www.youtube.com/playlist?list=PLyD1YMugK7a99vstp4AtnO0fGY_NL9kPo)
+- Born to be Cosmo - Born to be Cosmo is a Marvel Snap podcast hosted by Blutrane, NateWolfeTCG & ZombiesGoNomNom. Join us as we discuss all things Marvel Snap, including Snap news, decks, meta, new cards and much more. New episodes approximately every 2 weeks. [Apple Podcasts](https://podcasts.apple.com/us/podcast/born-to-be-cosmo-a-marvel-snap-podcast/id1672875916), [Listen Notes](https://www.listennotes.com/podcasts/born-to-be-cosmo-a-marvel-snap-podcast-born-oqs2t-4QSj1/), [podchaser](https://www.podchaser.com/podcasts/born-to-be-cosmo-a-marvel-snap-5136487), [Spotify](https://open.spotify.com/show/3Ohg8RPvHvtPhAG6XPpdkV), [Youtube](https://www.youtube.com/@borntobecosmo)
+- Cubed - A podcast where three regular guys talk about the card game, Marvel Snap. [iheart](https://www.iheart.com/podcast/53-cubed-the-marvel-snap-podca-148077258/), [spreaker](https://www.spreaker.com/podcast/cubed-the-marvel-snap-podcast--6075332)
+- Can't Stop Snapping - A podcast dedicated to the game, Marvel Snap! hosted by @Bradcifer and @TeddyNinja15.  [Apple Podcasts](https://podcasts.apple.com/us/podcast/cant-stop-snapping-a-marvel-snap-podcast/id1626945780), [Spotify](https://open.spotify.com/show/5R1VBkFgcU7xHtkI4iTcMY), [Youtube](https://www.youtube.com/@CantStopSnapping/videos)
+- How Can She SNAP? - A Marvel SNAP Podcast for the filthy casual! [Apple Podcasts](https://podcasts.apple.com/us/podcast/how-can-she-snap-a-marvel-snap-podcast/id1686767536), [Everland](https://www.everand.com/podcast-show/692101797/How-Can-She-SNAP-A-Marvel-SNAP-Podcast), [podchaser](https://www.podchaser.com/podcasts/how-can-she-snap-a-marvel-snap-5339809), [podscribe](https://app.podscribe.ai/series/2309516), [podtail](https://podtail.com/podcast/how-can-she-snap-a-marvel-snap-podcast/), [Spotify](https://open.spotify.com/show/66t911MhKRU0XnibAkiAGh)
+- The Snap Chat - Alexander Coccia - Welcome to the SNAP CHAT Podcast, A Marvel Snap Podcast hosted by Alex and Cozy Snap! [Youtube](https://www.youtube.com/playlist?list=PLmNkzAoJBnSsDXl6-JTijmhapI3pxA1Z2)
+- The Snap Chat - Cozy Snap - Come get your weekly dopamine of Marvel Snap! Join Cozy Snap and Alexander Coccia every week as they chat about the latest topics in the fastest card battler in the Multiverse, Marvel Snap.  [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-snap-chat-marvel-snap-podcast/id1657904561), [buzzsprout](https://snapchat.buzzsprout.com/), [Youtube (No direct link - search Cozy's videos)](https://www.youtube.com/@cozysnap/search?query=Snap%20Chat)
+- Snap On Ego! - A podcast focusing on all news regarding Marvel Snap, including balance changes, meta analysis, and competitive discussion. [Apple Podcasts](https://podcasts.apple.com/us/podcast/snap-on-ego-a-marvel-snap-podcast/id1670027930), [Spotify](https://open.spotify.com/show/7Akg2Tdrdy8MWkI8fzc3wk), [Youtube](https://www.youtube.com/playlist?list=PLDLfBtM8WE8IUkJz_2iy-5htV8Wf-JTWI)
+- The Snapshot - Welcome to The Snapshot, a competitive Marvel Snap Podcast for players by players all about strategy, leveling up and the latest news in Marvel Snap. Your hosts are Brendan Patrick (@brendanapg) and KMBest (@KMBestMS). [Amazon Music](https://music.amazon.com/podcasts/6470815e-a171-4155-929f-ec11818be51c/the-snapshot---marvel-snap-podcast), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-snapshot-marvel-snap-podcast/id1662626178), [iheart](https://www.iheart.com/podcast/338-the-snapshot-marvel-snap-p-106772019/), [podbean](https://thesnapshot.podbean.com/), [Spotify](https://open.spotify.com/show/0QoLDmKbMCyJrKAvm9KTM9), [Youtube](https://www.youtube.com/@The_Snapshot/videos)
+- Marvel Snapcast - Where you can come to hear all things In regards to Marvel SNAP! [Apple Podcasts](https://podcasts.apple.com/us/podcast/marvel-snapcast/id1668705234), [Spotify](https://open.spotify.com/show/3nR0Z0pesqYjMry6DQPhed), [Youtube](https://www.youtube.com/@marvelsnapcast/videos)
+- Snap Decisions - A Marvel Snap (mobile card game) podcast from a casual player! I discuss new cards, the decks I play, "weekends with Agatha", and also the comic book lore behind all the cards.  [Apple Podcasts](https://podcasts.apple.com/us/podcast/snap-decisions-a-marvel-snap-podcast/id1714266818), [podcast addict](https://podcastaddict.com/podcast/snap-decisions-a-marvel-snap-podcast/4723658), [Youtube](https://www.youtube.com/@SnapDecisionsAMarvelSnapPodcas/videos)
+- Snap Judgements - Snap Judgments is a weekly Marvel Snap podcast covering news and the competitive metagame. The Offical Marvel Snap Zone Podcast. [Apple Podcasts](https://podcasts.apple.com/us/podcast/snap-judgments/id1654435306), [snap-judgments.blubrry.net](https://snap-judgments.blubrry.net/), [Youtube](https://www.youtube.com/playlist?list=PLPUg1swnMUZ54_iRPz_8ZI1A0tCIS5FVP)
 
 ## Premium Services
 > Paid services to give you additional info like win rates and cube rates.
@@ -124,15 +142,13 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnapZone.com](https://marvelsnapzone.com/account/register/)
 
 ## Schedules
-> Schedules for bundles, locations, cards, seasons, etc.
-- todo
+> Schedules for spotlight caches, hot locations, card releases, etc.
+- [MarvelSnapZone.com](https://marvelsnapzone.com/schedule/)
+- [Snap.fan](https://snap.fan/news/schedule/)
 
-## Spotlight Caches
-> Speculative information about upcoming spotlight caches.
-- todo
-
-### Planners - Plan spending your resources to save for cards you want.
-- todo
+## Planners
+> Plan spending your resources to save for cards you want.
+- [MarvelSnapZone.com](https://marvelsnapzone.com/spotlight-planner/) - Spotlight planner
 
 ## Tools
 > Misc tools for Marvel Snap.
@@ -141,6 +157,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 ## Tournaments
 > Tournaments you can play in or watch.
+- [MarvelSnapPro.com](https://marvelsnap.pro/events/)
 - [Snap.fan World Championship](https://snap.fan/tourneys/sfwc/faq) - Information about the Snap.fan world championship.
 - [Snap.fan Tournaments](https://snap.fan/tourneys/) - Past and future tournaments including winning players and decks.
 
@@ -155,4 +172,4 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-todo:  other things like card backs, titles, avatars, emotes, discord servers, twitter accounts
+todo:  lots of other things like card backs, titles, avatars, emotes, discord servers, twitter accounts, youtube accounts

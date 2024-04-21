@@ -22,6 +22,7 @@ Ensure your pull request adheres to the following guidelines:
 * Check your spelling and grammar.
 * The pull request should have a useful title.
 * New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+* Alphabetize when possible.
 
 Thank you for your suggestion!
 
