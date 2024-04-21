@@ -59,7 +59,9 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Snap.fan](https://snap.fan/cards/)
 
 ### Unreleased - Future cards that will be added.
+
 **NOTE:  These are speculative and subject to change**
+
 - [MarvelSnap.pro](https://marvelsnap.pro/cards/?releaseStatus=unreleased) *These filter links are not working as of 4/19/2024.*
 - [MarvelSnapZone.com](https://marvelsnapzone.com/cards/unreleased/)
 - [Snap.fan](https://snap.fan/cards/?is_def_released=false)
