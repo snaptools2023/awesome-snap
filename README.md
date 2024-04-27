@@ -172,6 +172,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 - [Awesome Marvel Snap List](https://github.com/snaptools2023/awesome-snap) - this page
 - [SnapScripts](https://github.com/snaptools2023/snapscripts) - Powershell scripts for exporting information about your collection.
+- [DeckCodes.chat] (https://deckcodes.chat) - An AI powered Telegram Bot that takes and Marvel Snap deck image and gives you a deck code!
 
 ## Tournaments
 > Tournaments you can play in or watch.
