@@ -26,7 +26,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Tournaments](#tournaments)
 - [Trackers](#trackers)
 
-## Sites
+## Content Sites
 > General sites with information about Marvel Snap.
 
 - [MarvelSnap.com](https://www.marvelsnap.com/) - The primary site for the game.
@@ -39,11 +39,12 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Snap.fan](https://snap.fan) - Search for Marvel Snap cards, decks, and build decks.
 - [Youtube](https://www.youtube.com/results?search_query=marvel+snap) - Searched videos for Marvel Snap.
 
-## Apps
+## Apps and Tools
 - [MarvelSnap.pro](https://marvelsnap.pro/marvel-snap-tracker/) - Deck tracker and stats with overlay.  Android and PC
 - [Snap.fan](https://snap.fan/u/app/) - Deck tracker and stats.  Android and PC
+- [SnapComplete](https://snapcomplete.com/) - Sync your collection and track every card, variant, and album. See which bundles are actually worth buying based on what you're missing. Know the exact season you'll complete your collection. Free core tools. Premium unlocks customization, Sets, Albums, and more.
+- [SnapVault](https://www.snapvault.app/) - The Ultimate Marvel Snap Deck Tracker - Track your decks with git-like version control, analyze performance with powerful insights, and manage your collection — all in one beautiful platform.
 - [Untapped.gg](https://snap.untapped.gg/en) - Deck tracker and stats with overlay.  Mac and PC
-
 
 ## Bundles
 > Information about coming and current bundles.
