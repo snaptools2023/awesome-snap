@@ -37,6 +37,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Reddit - Marvel Snap Competitive](https://reddit.com/r/MarvelSnapComp) - A community for competitive marvel snap play!
 - [Reddit - Marvel Snap Decks](https://reddit.com/r/MarvelSnapDecks) - Need help building a deck for Marvel Snap?
 - [Snap.fan](https://snap.fan) - Search for Marvel Snap cards, decks, and build decks.
+- [SnapComplete](https://snapcomplete.com/) - Collection tracker with cards, variants, bundles, deck stats, match replays, leaderboards, and completion forecasting.
 - [Youtube](https://www.youtube.com/results?search_query=marvel+snap) - Searched videos for Marvel Snap.
 
 ## Apps and Tools
@@ -51,6 +52,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 - [MarvelSnapZone.com](https://marvelsnapzone.com/bundles/)
 - [Snap.fan](https://snap.fan/cards/)
+- [SnapComplete](https://snapcomplete.com/save/bundles) - Bundle efficiency rankings personalized to your missing cards and variants.
 
 ## Builders
 > Deck builders
@@ -65,6 +67,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnap.pro](https://marvelsnap.pro/cards)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/cards/released/)
 - [Snap.fan](https://snap.fan/cards/)
+- [SnapComplete](https://snapcomplete.com/collect/cards) - Collection tracker with ownership status, splits, and per-card leaderboard rankings.
 
 ### Unreleased - Future cards that will be added.
 
@@ -73,10 +76,12 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnap.pro](https://marvelsnap.pro/cards/?releaseStatus=unreleased) *These filter links are not working as of 4/19/2024.*
 - [MarvelSnapZone.com](https://marvelsnapzone.com/cards/unreleased/)
 - [Snap.fan](https://snap.fan/cards/?is_def_released=false)
+- [SnapComplete](https://snapcomplete.com/collect/cards?ownership=Unreleased) - Filter to cards with zero owners using the "No Owners" filter.
 
 ### Variants - View variants for each card.
 - [MarvelSnapZone.com](https://marvelsnapzone.com/variants/)
 - [Snap.fan](https://snap.fan/cards/variants/)
+- [SnapComplete](https://snapcomplete.com/collect/variants) - Browse variants by artist, style, rarity, and source with ownership tracking.
 
 ## Creator Program
 > Perks and requirements for being a creator for the Marvel Snap game.
@@ -103,6 +108,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnap.pro](https://marvelsnap.pro/decks/?pool=4&srt=metascore&direct=desc)
 - [MarvelSnapZone.com](https://marvelsnapzone.com/decks/)
 - [Snap.fan](https://snap.fan/decks/)
+- [SnapComplete](https://snapcomplete.com/tools/decks) - Community deck stats from tracked matches with win rates and cube rates.
 
 ## Getting Started
 > Information on how to get started and how to play the game.
@@ -112,6 +118,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnapZone.com](https://marvelsnapzone.com/strategy/) - Strategy
 - [MarvelSnapZone.com](https://marvelsnapzone.com/marvel-snap-beginners-guide/) - Beginners Guide
 - [Snap.fan](https://snap.fan/guides/) - Guides
+- [SnapComplete](https://snapcomplete.com/faq) - Guides on collection completion, credit-to-token ratios, split mechanics, and Snap Packs.
 
 ## Leaderboards
 > World leaderboards
@@ -119,6 +126,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [MarvelSnap.com](https://www.marvelsnap.com/infiniteleaderboard) - Official Leaderboard
 - [MarvelSnapZone.com](https://marvelsnapzone.com/leaderboard/) - including hot decks for the leaders.
 - [Snap.fan](https://snap.fan/p/leaderboard/)
+- [SnapComplete](https://snapcomplete.com/leaderboard) - Per-card and global leaderboards for splits, net wins, and mastery across synced collections.
 
 ## Locations
 > Location Databases
@@ -163,6 +171,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 - [Untapped.gg](https://snap.untapped.gg/) - Click the premium link at the top of the page.  Shame there is no link to additional info.
 - [MarvelSnapZone.com](https://marvelsnapzone.com/account/register/)
+- [SnapComplete](https://snapcomplete.com/premium) - Unlimited replays, leaderboard name display, competitive stats, shop monitoring with email alerts, and advanced sorts across all pages.
 
 ## Schedules
 > Schedules for spotlight caches, hot locations, card releases, etc.
@@ -184,6 +193,8 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Draftinator](https://www.marvelsnapdraft.com/arena/) ([github](https://github.com/hansenwebco/marvel-snap-draftanator))- The original Marvel Snap site for drafting decks.  Marvel Snap Draftanator supports sealed and arena formats and even allows you to draft decks with friends!
 - [SnapScripts Automation](https://github.com/snaptools2023/automation) - Autohotkey scripts to add keyboard bindings.
 - [SnapScripts Powershell](https://github.com/snaptools2023/snapscripts) - Powershell scripts for exporting information about your collection.
+- [SnapComplete Completion Calculator](https://snapcomplete.com/complete/timeline) - Forecasts the exact season you will complete your collection based on current progress.
+- [SnapComplete Pack Simulator](https://snapcomplete.com/tools/sims/packs) - Simulates Spotlight Cache and Collector's Reserve openings with real variant pool data.
 
 ## Tournaments
 > Tournaments you can play in or watch.
@@ -199,6 +210,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 - [Marvel Snap Tracker by Prometa - MarvelSnap.pro](https://marvelsnap.pro/marvel-snap-tracker/)
 - [Marvel Snap Deck Tracker by Untapped.gg](https://snap.untapped.gg/)
 - [SnapSync by Snap.fan](https://snap.fan/u/app/)
+- [SnapComplete](https://snapcomplete.com/tools/matches) - Match history with game replay viewer and per-deck performance stats.
 
 ## Contributing
 
