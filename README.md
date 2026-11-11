@@ -180,7 +180,7 @@ At this time, most of the links in this document are from [MarvelSnap.com](https
 
 - [Awesome Marvel Snap List](https://github.com/snaptools2023/awesome-snap) - this page
 - [Booster Counte](https://github.com/MarvelSnapBoosters/Marvel-Snap-Booster-Count) - python script to count the boosters for each of your cards and export to csv.
-- [DeckCodes.chat](https://deckcodes.chat) - An AI powered Telegram Bot that takes and Marvel Snap deck image and gives you a deck code!
+- [DeckCodes.chat](https://deckcodes.chat) - Free AI-powered web app: upload a screenshot of any Marvel Snap deck and get a ready-to-paste deck code, plus the card list.
 - [Draftinator](https://www.marvelsnapdraft.com/arena/) ([github](https://github.com/hansenwebco/marvel-snap-draftanator))- The original Marvel Snap site for drafting decks.  Marvel Snap Draftanator supports sealed and arena formats and even allows you to draft decks with friends!
 - [SnapScripts Automation](https://github.com/snaptools2023/automation) - Autohotkey scripts to add keyboard bindings.
 - [SnapScripts Powershell](https://github.com/snaptools2023/snapscripts) - Powershell scripts for exporting information about your collection.
